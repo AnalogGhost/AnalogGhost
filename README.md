@@ -1,11 +1,10 @@
+
 # AnalogGhost
+Software Engineer • Leader/Manager • Educator
 
-**Software Engineer │ Leader/Manager │ Educator**  
-Building modern web/mobile apps with a database focus.
+## About
+- Passionate about managing teams, teaching, and building applications (web & mobile).  
+- Experienced in database systems, always learning.  
+- Enjoys reading and photography, striving to keep everything sleek and minimal.
 
-### About
-• Passionate about innovation with sci-fi/cyberpunk minimalism  
-• Enjoys reading and photography  
-• Always striving to keep tech sleek and efficient
-
-Feel free to explore my projects!
+© 2025 AnalogGhost

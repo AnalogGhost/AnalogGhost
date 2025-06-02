@@ -1,17 +1,11 @@
-# Minimal Sci-Fi Profile
+# AnalogGhost
 
-Hi there! This profile README is meant to highlight your key skills in a sleek, sci-fi-inspired style. Below is an example of how you might include your info:
+**Software Engineer │ Leader/Manager │ Educator**  
+Building modern web/mobile apps with a database focus.
 
-```html
-<!-- Minimal Profile Section -->
-<section>
-  <h1>AnalogGhost</h1>
-  <p>Software Engineer • Leader/Manager • Educator</p>
-  <p>
-    Enjoying building web and mobile apps with a focus on database systems.<br/>
-    Interests: reading, photography — minimalistic, sci-fi vibes.
-  </p>
-</section>
-```
+### About
+• Passionate about innovation with sci-fi/cyberpunk minimalism  
+• Enjoys reading and photography  
+• Always striving to keep tech sleek and efficient
 
-Feel free to customize as you like, keeping it minimalist with a subtle sci-fi/cyberpunk flair!
+Feel free to explore my projects!

@@ -1,16 +1,17 @@
-## Hi there 👋
+# Minimal Sci-Fi Profile
 
-<!--
-**AnalogGhost/AnalogGhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! This profile README is meant to highlight your key skills in a sleek, sci-fi-inspired style. Below is an example of how you might include your info:
 
-Here are some ideas to get you started:
+```html
+<!-- Minimal Profile Section -->
+<section>
+  <h1>AnalogGhost</h1>
+  <p>Software Engineer • Leader/Manager • Educator</p>
+  <p>
+    Enjoying building web and mobile apps with a focus on database systems.<br/>
+    Interests: reading, photography — minimalistic, sci-fi vibes.
+  </p>
+</section>
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to customize as you like, keeping it minimalist with a subtle sci-fi/cyberpunk flair!
